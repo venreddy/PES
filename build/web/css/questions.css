@@ -1,0 +1,41 @@
+/* 
+    Document   : questions
+    Created on : Feb 23, 2012, 6:22:22 PM
+    Author     : Chaitanya
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.question
+{
+    font-weight: bold;
+    text-align: justify;
+}
+
+.answer
+{
+    font-weight: bold;
+    font-size: +1;
+}
+
+.property
+{
+    padding-left: 20px;
+    font-weight: bold;
+    background-repeat: no-repeat;
+    background-image: url(icons/16/properties_icon.png);
+}
+
+.property-value
+{
+    padding-left: 10px;
+    padding-right: 20px;
+    color: #ff0000;
+}
+
+.question_list{
+    padding-top: 20px;
+}
+.question_details{
+    padding-top: 10px;
+}
